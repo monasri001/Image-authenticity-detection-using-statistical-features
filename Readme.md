@@ -25,8 +25,8 @@ Instead of learning visual patterns, this system detects **numerical irregularit
 # 🎥 Demo Screens
 
 ### 🔹 Upload Interface
+<img width="1902" height="916" alt="image" src="https://github.com/user-attachments/assets/ddc7dc82-b4bd-4abb-b0fa-c66b7f750866" />
 
-![Upload Demo](docs/demo_upload.png)
 
 ### 🔹 Image Analysis (RGB Histogram Comparison)
 
