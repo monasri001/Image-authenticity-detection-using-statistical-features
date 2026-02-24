@@ -344,12 +344,3 @@ It bridges the gap between classical digital forensics and modern AI-generated i
 
 ---
 
-# 👩‍💻 Author
-
-**Monasri**
-AI & Data Science Student
-Focused on Explainable AI and Production-Ready ML Systems
-
-
-Tell me what you want next 😌
-
