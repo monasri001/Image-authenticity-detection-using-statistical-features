@@ -125,7 +125,7 @@ To ensure robustness:
 | ---------------- | --------------------- |
 | CASIA v2         | Authentic vs Tampered |
 | PS-Battles       | Edited vs Original    |
-| Deepfake Dataset | AI-generated images   |
+| Deepfake Dataset | real vs fake/AI gen   |
 
 Final dataset:
 
