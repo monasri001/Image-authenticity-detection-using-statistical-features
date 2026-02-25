@@ -30,7 +30,7 @@ Instead of learning visual patterns, this system detects **numerical irregularit
 
 ### 🔹 Image Analysis (RGB Histogram Comparison)
 
-![RGB Analysis](docs/demo_rgb_analysis.png)
+<img width="1914" height="1079" alt="Screenshot 2026-02-24 214308" src="https://github.com/user-attachments/assets/d85d1685-3564-4a08-988e-73f2f91d1f0d" />
 
 ### 🔹 Model Prediction Output
 
