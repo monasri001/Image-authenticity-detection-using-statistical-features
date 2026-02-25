@@ -34,7 +34,8 @@ Instead of learning visual patterns, this system detects **numerical irregularit
 
 ### 🔹 Model Prediction Output
 
-![Prediction Demo](docs/demo_prediction.png)
+<img width="1908" height="908" alt="Screenshot 2026-02-24 214210" src="https://github.com/user-attachments/assets/a960fa34-bdbb-4036-959e-888f76fd941b" />
+
 
 ### 🔹 RL-Based Threshold Optimization
 
