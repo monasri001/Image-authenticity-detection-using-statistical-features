@@ -140,7 +140,7 @@ Feature Extraction
       ↓
 Random Forest Model
       ↓
-Confidence-Aware Decision Layer
+Confidence-Aware Decision Layer(RL based)
       ↓
 Final Prediction
 ```
