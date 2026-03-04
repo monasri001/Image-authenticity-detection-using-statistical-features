@@ -2,7 +2,7 @@
 
 ## Image Authenticity Detection Using Statistical Image Forensics
 
-> Detecting **REAL vs EDITED vs AI-GENERATED** images using statistical forensic analysis — without deep CNNs.
+> Detecting **REAL vs EDITED vs AI-GENERATED** images using statistical forensic analysis — without deep CNNs and GPUs.
 
 ---
 
