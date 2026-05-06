@@ -4,6 +4,8 @@
 
 > Detecting **REAL vs EDITED vs AI-GENERATED** images using statistical forensic analysis — without deep CNNs and GPUs.
 
+production link : LINK
+
 ---
 
 # 📌 Overview
